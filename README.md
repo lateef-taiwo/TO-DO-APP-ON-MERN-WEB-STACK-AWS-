@@ -169,11 +169,13 @@ Each task will be associated with some particular endpoint and will use differen
 
 For each task, we need to create routes that will define various endpoints that the To-do app will depend on. 
 
- * Create a folder routes .
+ * Create a folder routes.
  * Change directory to routes folder.
- * create a file api.js using the `touch api.js` commad
+ * create a file api.js using the touch command
 
     `mkdir routes`
+
+     `touch api.js`
 
     `cd routes`
 
