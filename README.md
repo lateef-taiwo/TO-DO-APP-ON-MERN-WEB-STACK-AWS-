@@ -175,9 +175,7 @@ For each task, we need to create routes that will define various endpoints that 
 
     `mkdir routes`
 
-     `touch api.js`
-
-    `cd routes`
+     `cd routes`
 
     `touch api.js`
 
